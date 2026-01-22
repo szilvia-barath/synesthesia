@@ -1,0 +1,74 @@
+[
+  {
+    "id": "01-memory-rain",
+    "title": "The Geometry of Rain",
+    "subtitle": "It wasn't just falling; it was dividing the city into grid lines.",
+    "type": "state",
+    "tags": ["melancholy", "kyoto", "water"],
+    "content": "<p>We stood under the awning of the convenience store. The neon sign hummed—a G-sharp, slightly flat. The rain didn't feel like weather; it felt like architecture. A cage of water descending on the streets of Kyoto.</p><p>I remembered the way you looked at the vending machine, as if it held the secrets of the universe, illuminated in blue LED.</p>",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1493780474015-ba834fd0ce2f?q=80&w=1200&auto=format&fit=crop",
+        "caption": "Fig 1. Precipitation density at 2am"
+      },
+      {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1515595962692-78d1f057bb0e?q=80&w=800&auto=format&fit=crop",
+        "caption": "Fig 2. Neon refraction study"
+      }
+    ],
+    "audio": {
+      "provider": "soundcloud",
+      "url": "https://soundcloud.com/burial/archangel"
+    },
+    "links": ["02-static-noise"]
+  },
+  {
+    "id": "02-static-noise",
+    "title": "Static on the Radio",
+    "subtitle": "The hum of the machine felt more alive than the silence.",
+    "type": "object",
+    "tags": ["analog", "entropy", "noise"],
+    "content": "<p>In the attic, the old receiver sat like a monolith. Dust motes danced in the shaft of light hitting the dial. I turned it slowly.</p><p>White noise. The sound of the universe cooling down. Between the stations, ghosts spoke in crackles and pops.</p>",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1527335480069-b5f7e7f60747?q=80&w=1200&auto=format&fit=crop",
+        "caption": "Fig 3. Analog Receiver Model 77"
+      }
+    ],
+    "audio": null,
+    "links": ["01-memory-rain"]
+  },
+  {
+  "id": "03-latitude-arrival",
+  "title": "Latitude of Arrival",
+  "subtitle": "Permission does not announce itself.",
+  "type": "place",
+  "tags": ["bologna", "arrival", "rain", "home"],
+  "content": "<p>Even though I could feel the weight of my backpack on my shoulders, my arms were relaxed, swinging back and forth as I was walking. It felt less like walking and more like marching on the path adrenaline creates in the stomach.</p><p>I stopped and could feel the raindrops on my skin. The sky was grey. It was raining. It was a bit cold. The station was crowded.</p><p>I looked at the clock of the station, signaling the wrong time. Later I found out it is left like this on purpose, to commemorate a terrorist attack.</p><p>I took a deep breath. Everything clicked. I was finally at home.</p><p>Looking at my wrist, I remembered what I had written on it on the train: <em>eu sou o meu proprio lar</em>. In my mind, I graffitied this sentence on the walls of Bologna Centrale.</p>",
+  "media": [],
+  "audio": {
+    "provider": "youtube",
+    "url": "https://www.youtube.com/watch?v=lKmYTHgBNoE"
+  },
+  "links": ["05-place-breathe", "01-winter"]
+},
+{
+  "id": "04-first-coordinates",
+  "title": "First Coordinates",
+  "subtitle": "Anomalia — nascita",
+  "type": "time",
+  "tags": ["origin", "cities", "inevitability", "mapping"],
+  "content": "<p>C’era una volta che Budapest si è innamorato di Bologna. Queste due città si sono innamorate appena si sono viste: Budapest ha guardato Bologna e ha sorriso. Una città così depressa che fa un sorriso.</p><p>Bologna, che è sempre tra le nuvole, è atterrata a terra in un istante. Purtroppo, Buda già era sposato con Pest.</p><p>Ma la vita è una rete luminosa che connette tutto con nodi invisibili e le due città si sono incontrate di nuovo e di nuovo, sempre a caso, in situazioni imprevedibili.</p><p>Una notte, Budapest ha preso il coraggio di confessare il suo amore a Bologna. Le ha detto: “Io non ho mai conosciuto una città come te. Il tuo cuore batte al ritmo dei canti degli studenti bolognesi seduti con la chitarra a piazza Verdi. Sei un universo intero da sola e non so come fai a reggere vedere davvero tutto.”</p><p>Bologna, lasciando cadere una lacrima, ha risposto: “Non ho mai conosciuto nessuno che mi ha visto per tutto quello che sono.”</p><p>In quel momento i colli bolognesi e i colli di Buda si sono spostati e uniti a causa di un terremoto. La primavera seguente, il fiore del partigiano ha iniziato a fiorire anche a Budapest.</p>",
+  "media": [],
+  "audio": {
+    "provider": "youtube",
+    "url": "https://www.youtube.com/watch?v=Fq1fW-jIRms"
+  },
+  "links": ["03-latitude-arrival"]
+}
+
+
+]
